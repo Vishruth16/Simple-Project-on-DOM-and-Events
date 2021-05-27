@@ -13,7 +13,7 @@ Bootstrap is used as a CSS framewok
 ### 1) Search Functionality
   Search button to find the items
   
-  <img src="images/search.jpg">
+  <img src="images/search.JPG">
   
 ### 2) Add / Delete Items
-  <img src="images/items.jpg">
+  <img src="images/items.JPG">
